@@ -1,0 +1,6 @@
+[submodule "Frontend"]
+	path = Frontend
+	url = https://github.com/BinhNTSE181790/NguyenThanhBinh_SE1716_A02_FE.git
+[submodule "Backend"]
+	path = Backend
+	url = https://github.com/BinhNTSE181790/NguyenThanhBinh_SE1716_A02_BE.git
