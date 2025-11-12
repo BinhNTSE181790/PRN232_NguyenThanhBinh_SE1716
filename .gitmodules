@@ -1,0 +1,6 @@
+[submodule "FUNewsManagementSystem"]
+	path = FUNewsManagementSystem
+	url = https://github.com/BinhNTSE181790/FUNewsManagementSystem.git
+[submodule "NewsManagementSystemClient"]
+	path = NewsManagementSystemClient
+	url = https://github.com/BinhNTSE181790/NewsManagementSystemClient.git
